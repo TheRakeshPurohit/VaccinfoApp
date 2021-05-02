@@ -2,7 +2,7 @@
 React Native App for android and iOS to get Vaccine Appointment Availability Details by pincode and notification
 
 # Intall APK
-[Download APK](https://github.com/TheRakeshPurohit/VaccinfoApp/blob/master/app-universal-release.apk)
+[Download APK](https://github.com/TheRakeshPurohit/VaccinfoApp/suites/2633287258/artifacts/57763049)
 # It will work for india only
 
 # Restrictions

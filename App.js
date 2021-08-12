@@ -47,7 +47,7 @@ const App = () => {
             `${respJSON[0].Message}. Pincode Invalid!`,
             ToastAndroid.SHORT,
           );
-          // google
+          // googleo
         } else if (respJSON[0].Status === 'Success') {
           ToastAndroid.show('Fetching..Please wait', ToastAndroid.SHORT);
 
